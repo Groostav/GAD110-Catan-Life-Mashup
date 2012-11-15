@@ -1,0 +1,1 @@
+As per the README.md (which you can open by dragging into notepad), I've named our game "Life in Catan", which has some nice ironies but I wont argue a better name.
