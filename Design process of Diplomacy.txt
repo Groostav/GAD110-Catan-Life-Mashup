@@ -1,0 +1,40 @@
+The design process of Diplomacy 
+	
+There were three driving processes behind the design of Diplomacy: AB-testing, play-testing, and market research. 
+We started with a simple premise: combine the cooperative and family aspects of The Game of Life (“Life”) with the
+ Empire building aspects of Settlers of Catan (“Catan”).  Through a combination of the thoughts and opinions we 
+collected from subjective testing, specific answers we got from AB testing, and {feeling, personal-insight, info} 
+ we got from our market research and created persona, we created a novel board game that’s fun to play. 
+
+	The driving component behind our design process was Subjective Testing. By keeping an open mind and 
+all the materials from both Life and Catan nearby, we were able to rapidly take feedback, design a change, 
+and introduce that change all between play-testing rounds. The result can be an incredible amount of refinement 
+from just a few playtests, and we did over a dozen.  In our play tests  we found that players were able to spot 
+problems and suggest changes, even though many times we found those changes to be excessive, they typically
+ identified a key part in contention or mechanic that needed to be tweaked. By keeping a creative designer 
+at these play testing sessions we were able to design a new component or modify an existing one very quickly. 
+Sometimes these changes were quickly reverted, but more often than not we found ourselves modifying our 
+existing copy of the rules to accommodate them. 
+
+	Our market research showed us the kinds of players that currently play Catan and Life and how they 
+contrasted to our persona, Steve, and the game we were making. Steve was created as the personification of the 
+thought processes we expected a typical customer of ours would have. While not driving any creative decisions, 
+reflection on “What would Steve want” provided direction for our decisions. For example, at one point we had to
+ decide between a motif of war and diplomacy , we turned to Steve, and decided that because Steve, like the 
+typical male purchaser of our game, is more easily sold on war than he is on diplomacy, that a more combat 
+oriented motif would better tailor this game to our market. Steve the persona ultimately allowed us to tailor
+ our game to our target audience, but did not provide a tool for original creativity in the design process.
+
+	We also asked play testers a series of very specific questions about our game with respect to Life 
+and Catan. We found that while most of our questions yielded answers that told us little about which game 
+people preferred, some questions provided key insights that would drive the design process behind Diplomacy. 
+For example: we found that everyone we questioned enjoyed collecting things in board games, whether it be 
+money or resource tokens people enjoyed the aspect of taking something as their own. This was the driving factor 
+behind the currency system in the game. Like market research however we found that AB testing did not drive 
+creativity  and did not in itself allow us to introduce new concepts, but instead guided the design decisions 
+had to make. 
+
+	By applying these components to our process we were able to quickly create a well-designed and thought-out 
+game. Though the bulk of the process was driven by play testing, without the insights offered by our market 
+research  and AB testing we would have created either a game that had a very generic appeal or little appeal at 
+all. Going forward we will continue to integrate market research and AB questions into the design process.
